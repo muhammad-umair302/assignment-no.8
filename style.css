@@ -1,0 +1,162 @@
+nav {
+    background-color:black;
+    border-radius: 8px;
+    height: 30px;
+    margin-top: -10px;
+    width: 100%;
+    
+}
+.list{
+
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    color: white;
+    column-gap: 20px;
+    padding-top:7px;
+    
+}
+.list a{
+    color: white;
+    text-decoration: none;
+}
+.list li:hover{
+    background-color: rgba(159, 152, 152, 0.856);
+
+
+}
+.dawn{
+   margin: auto;
+   width: 300px;
+   
+ 
+}
+.dawn img{
+    width: 300px;
+}
+
+.paragragh1{
+    text-align:center ;
+}
+
+.list1>ul{
+    display: flex;
+    list-style-type: none;
+    column-gap: 10px;
+    font-size:smaller;
+    font-weight:bold;
+    
+    
+    
+}
+.list1 a{
+    text-decoration: none;
+    color: black;
+}
+.list1 li :hover{
+    background-color: rgb(199, 197, 197);
+}
+.style{
+    text-align: center;
+    font-family: math;
+}
+.paragragh{
+    margin-top: -14px;
+
+}
+
+.input{
+    margin-left: 1030px;
+    margin-top: -150px;
+
+}
+.fa-magnifying-glass{
+    margin-left: 1010px;
+    
+}
+
+
+
+.flex{
+    display: flex;
+    gap: 10px;
+    font-size: 28px;
+    margin-left: 1050px;
+    margin-top: -30px;
+}
+.image{
+    margin: auto;
+    width: 800px;
+    margin-top: 150px;
+}
+.text{
+    margin: auto;
+    width: 800px;
+    margin-top: 25px;
+    font-family:sans-serif;
+    line-height: 40px;
+    
+}
+.form {
+    width: 700px;
+    margin-left: 250px;
+    height: 300px;
+    
+
+}
+.form input{
+    height: 30px;
+    width: 200px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgba(210, 208, 208, 0.671);
+    
+}
+.form e{
+    color: red;
+    font-family:math;
+    font-size: small;
+
+    
+}
+.form p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.submit img{
+    height: 150px;
+    margin: -35px;
+    margin-left: -50px;
+
+}
+.next img{
+    width: 100%;
+    height: 600px;
+    background-position:cover;
+    background-position: fixed;
+}
+footer{
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    width: 100%;
+
+}
+footer h1{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.footer{
+    display: flex;
+    font-family: monospace;
+    font-size: medium;
+}
+.list3{
+    list-style-type: none;
+}
+footer hr{
+    border: 1px solid;
+}
+.list3 li :hover{
+    background-color: rgba(159, 152, 152, 0.856);
+}
+
